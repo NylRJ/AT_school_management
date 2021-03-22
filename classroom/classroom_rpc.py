@@ -22,4 +22,11 @@ class ClassRoomService:
         query = "SELECT DISTINCT date FROM classroom;"
         self.db.cursor.execute(query)
         results = self.db.cursor.fetchall()
+        return [r[0] for r in results]
+
+    @rpc
+    def get_attendence(self, date):
+        query = "SELECT * FROM classroom WHERE date=?"
+        self.db.cursor.execute(query, (date,))
+        results = self.db.cursor.fetchall()
         return results

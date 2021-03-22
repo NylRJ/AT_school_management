@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5dbadaf7-fd57-40c1-bca8-a3a1618e71ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classroom/classroom_rpc.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classroom/classroom_rpc.py" beforeDir="false" afterPath="$PROJECT_DIR$/classroom/classroom_rpc.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +46,7 @@
       <workItem from="1615590511581" duration="3096000" />
       <workItem from="1615619646260" duration="1421000" />
       <workItem from="1615807907414" duration="611000" />
-      <workItem from="1616336121640" duration="6586000" />
+      <workItem from="1616336121640" duration="8002000" />
     </task>
     <servers />
   </component>
